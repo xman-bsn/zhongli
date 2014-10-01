@@ -2,9 +2,9 @@ package com.zhongli.webapp.controller;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.appfuse.model.User;
-import org.appfuse.service.MailEngine;
-import org.appfuse.service.UserManager;
+import com.zhongli.model.User;
+import com.zhongli.service.MailEngine;
+import com.zhongli.service.UserManager;
 import com.zhongli.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

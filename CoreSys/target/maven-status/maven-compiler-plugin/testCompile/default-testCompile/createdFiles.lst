@@ -1,0 +1,9 @@
+com\zhongli\webapp\controller\PasswordHintControllerTest.class
+com\zhongli\webapp\controller\BaseControllerTestCase.class
+com\zhongli\webapp\controller\UpdatePasswordControllerTest.class
+com\zhongli\webapp\listener\StartupListenerTest.class
+com\zhongli\webapp\controller\SignupControllerTest.class
+com\zhongli\webapp\filter\MockFilterChain.class
+com\zhongli\webapp\controller\UserFormControllerTest.class
+com\zhongli\webapp\filter\LocaleFilterTest.class
+com\zhongli\webapp\controller\UserControllerTest.class

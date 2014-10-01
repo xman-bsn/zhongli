@@ -5,10 +5,10 @@ import java.util.Locale;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.appfuse.Constants;
-import org.appfuse.model.User;
-import org.appfuse.service.RoleManager;
-import org.appfuse.service.UserExistsException;
+import com.zhongli.Constants;
+import com.zhongli.model.User;
+import com.zhongli.service.RoleManager;
+import com.zhongli.service.UserExistsException;
 import com.zhongli.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;
