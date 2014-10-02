@@ -37,6 +37,7 @@
         <fmt:param><c:url value="/signup"/></fmt:param>
     </fmt:message>
 </p>
+<p>Hello, World!</p
 
 <c:set var="scripts" scope="request">
 <%@ include file="/scripts/login.js"%>
