@@ -1,0 +1,9 @@
+test
+.settings
+.classpath
+.gitignore
+.project
+pom.xml
+README.txt
+velocity.log
+/CoreSys/pom.xml
